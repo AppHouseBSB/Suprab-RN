@@ -118,4 +118,29 @@ export default StyleSheet.create({
     // borderBottomColor: '#A1A1A1',
     marginTop: 20,
   },
+  container1: {
+    alignItems: 'center',
+  },
+  titleText: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    paddingVertical: 20,
+  },
+  textStyle: {
+    color: 'black',
+    textAlign: 'center',
+  },
+  buttonStyle: {
+    alignItems: 'center',
+    backgroundColor: '#DDDDDD',
+    padding: 5,
+    marginVertical: 10,
+    width: 250,
+  },
+  imageStyle: {
+    width: 50,
+    height: 50,
+    margin: 5,
+  },
 });
